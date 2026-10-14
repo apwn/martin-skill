@@ -1,5 +1,5 @@
 # Page-type guardrails
-Structure first on every type. Map sections (job, height in screens, visual weight) before cutting words. A short word count can still hide a tall, repetitive scroll.
+Structure first on every type. Map sections (job, height in screens, visual weight) before cutting words. A short word count can still hide a tall, repetitive scroll. Hero budget and no-regression apply to every type: do not grow the fold to finish a merge.
 
 - Tiny SaaS: short pitch and demo; preserve pricing and limits. Watch for the same pitch restated in hero, feature strip, FAQ and a closing banner.
 - B2B SaaS: compress repetition; preserve security, integrations, procurement objections. Don't put a logo wall before the offer, or bury the CTA under six feature grids.
