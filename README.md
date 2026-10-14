@@ -1,6 +1,6 @@
 # ✂️ Martin
 
-Your landing page isn't a novel. Martin finds the one outcome a visitor came for, then edits your site so that shows up first.
+Your landing page isn't a novel. Martin maps the page, then edits the source.
 
 ```bash
 git clone https://github.com/apwn/martin-skill ~/.claude/skills/martin
@@ -18,7 +18,7 @@ This skill turns that advice into an automated coding workflow. A playful homage
 
 ## What it does
 
-Martin inspects the page, names the primary customer outcome, and marks each section KEEP, COMPRESS, MERGE, MOVE or DELETE. Features get clustered under real benefits, not listed as a catalog. Then it edits the source. Pricing, genuine proof, legal copy, accessibility, SEO and working UI stay.
+Structure first. A merge cannot grow the hero (about 0.75 of a 1440x900 desktop screen, one 390x844 mobile screen, with headline, offer and CTA above the fold). Timers and badges attach under the CTA, not as their own row. After edits: screenshot, critique the fold and orphans, fix up to twice. The report includes a per-section height table. Pricing, proof, legal, accessibility and SEO stay.
 
 | Mode | Behavior |
 |---|---|
@@ -29,22 +29,28 @@ Martin inspects the page, names the primary customer outcome, and marks each sec
 | `hero` | Hero clarity and size |
 | `mobile` | Mobile hierarchy and clutter |
 
-Ask in plain language: `Use Martin in brutal mode on my homepage`.
+`Use Martin in brutal mode on my homepage`.
 
 ## Example: [level39.fun](https://level39.fun)
 
-Same offer, four times, then two mobile screens of enemies after you already knew the ask. Collapse the catalog. Keep the route.
-
-Removed the birthday banner that repeated the hero invite. Collapsed the 16-card cast into a closed details section.
+Same offer, four times, then two mobile screens of enemies. Collapse the catalog. Keep the route. Banner gone, cast collapsed, hero a bit smaller than the original.
 
 <table>
   <tr>
-    <td align="center"><img src="assets/level39-before.png" alt="level39.fun mobile before" width="300" /><br>Before</td>
-    <td align="center"><img src="assets/level39-after.png" alt="level39.fun mobile after" width="300" /><br>After</td>
+    <td align="center"><img src="assets/level39-before.png" alt="level39.fun landing before" width="300" /><br>Before</td>
+    <td align="center"><img src="assets/level39-after.png" alt="level39.fun landing after" width="300" /><br>After</td>
   </tr>
 </table>
 
-Sections: 7 → 6. Mobile: 5.31 → 3.56 screens (-33%). Desktop: 3.63 → 2.92 (-20%). Words: 473 → 341, mostly from the collapsed cast. Tests and build passed.
+Landing mobile: 5.31 → 3.55 screens. Desktop: 3.63 → 2.86.
+
+On the birthday page the prize block merged into the hero and the standalone countdown became one line under Play.
+
+<img src="assets/level39-birthday-after.png" alt="level39.fun birthday after" width="300" />
+
+Birthday hero: 1.05 → 0.48 mobile screens. Page: 4.62 → 3.23.
+
+Self-review caught four of its own issues: hero growth from the invite card, padding leaking to mobile, a misaligned countdown, and a headline wrap. Tests and build passed.
 
 MIT. See [LICENSE](LICENSE).
 
