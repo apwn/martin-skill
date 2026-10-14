@@ -8,7 +8,7 @@
 
 ### The origin
 
-Martin Tale (@MartinTale) told a friend his landing pages had too much copy and would work better if he cut it roughly in half and got straight to the point. This skill turns that advice into an automated coding workflow. A playful homage, not an official endorsement by Martin Tale.
+Martin Tale (@MartinTale) told me my landing pages had too much copy and would work better if I cut it roughly in half and got straight to the point. This skill turns that advice into an automated coding workflow. A playful homage, not an official endorsement by Martin Tale.
 
 ### What it does
 
