@@ -33,9 +33,9 @@ Ask in plain language: `Use Martin in brutal mode on my homepage`.
 
 ## Example: [level39.fun](https://level39.fun)
 
-The page already knew what it was selling. It just said "beat level 39" four times before anyone learned a jump.
+Same offer, four times, then two mobile screens of enemies after you already knew the ask. Collapse the catalog. Keep the route.
 
-It was already lean. Martin made small targeted cuts, not a half-page rewrite.
+Removed the birthday banner that repeated the hero invite. Collapsed the 16-card cast into a closed details section.
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ It was already lean. Martin made small targeted cuts, not a half-page rewrite.
   </tr>
 </table>
 
-Desktop: 473 → 467 visible words. Mobile: 470 → 442 words, page height 4479 → 4273 px. Tests and build passed.
+Sections: 7 → 6. Mobile: 5.31 → 3.56 screens (-33%). Desktop: 3.63 → 2.92 (-20%). Words: 473 → 341, mostly from the collapsed cast. Tests and build passed.
 
 MIT. See [LICENSE](LICENSE).
 
