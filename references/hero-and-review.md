@@ -24,6 +24,16 @@ Look at the above-the-fold screenshot for five seconds, then answer as a strange
 
 NN/g's 5-second test is a first-impression method. Martin's version also uses Shapiro's headline litmus and the Demand Curve ATF questions (what you do, whether you are a fit). If any answer is fuzzy, fix the fold before you report. Do not invent a category, audience or proof to pass the test.
 
+## Widget placement
+Small supporting elements (timers, badges, stats, single trust lines, ratings, guarantees) attach to the element they support. Usually that is one quiet line next to or under the primary CTA. They must not become a standalone section or a full-width row.
+
+Urgency belongs at the decision point. A countdown sitting in its own row, a fat box on the left with empty space beside it, is a fail. Put it under the CTA as one small line. That is the /birthday/ lesson: the timer was sized, then left orphaned.
+
+When you move or place an element, consider two or three spots. Pick one and give a short reason. List the others in the report. Typical options for a countdown: under the CTA, beside the CTA, or a single quiet line in the hero. "Its own row" is not a valid pick.
+
+## Orphan check
+In self-review, flag any block that occupies its own row while using under about 40% of the width, or that leaves large dead space beside or below it. Fix it: attach it, shrink it, or drop the row. Do not leave a lonely widget holding a full band of the page.
+
 ## Visual hierarchy
 - One primary CTA style. Repeat the same action later if needed. Do not run two equally loud buttons that ask for different things.
 - Clear type scale: one display headline, a smaller subhead, body, quiet captions. Headings should be specific enough to scan (NN/g).
@@ -34,6 +44,6 @@ NN/g's 5-second test is a first-impression method. Martin's version also uses Sh
 ## Self-review loop
 After edits, before the report, up to 2 rounds:
 1. Screenshot the full page and the fold at 1440x900 and 390x844. If there is no browser, critique from the layout and say estimated.
-2. Critique as a skeptical designer, not the author. Check the hero budget, above-the-fold contents, false floor, 5-second answers, one primary CTA, type scale, walls of text, tap targets, and the per-section height table.
+2. Critique as a skeptical designer, not the author. Check the hero budget, above-the-fold contents, false floor, 5-second answers, one primary CTA, type scale, walls of text, tap targets, the per-section height table, and the orphan check.
 3. If anything fails, fix it. A section that grew is an automatic fail.
 4. Screenshot again. Stop after 2 fix rounds. If a gate still fails, say so in the report. Do not ship a taller hero and call the loop done.

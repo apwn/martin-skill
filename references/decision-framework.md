@@ -6,7 +6,7 @@ List every section:
 - height in screens (viewport heights; measure if a browser is available, otherwise estimate)
 - visual weight (hero / loud / quiet)
 
-Look for: same job twice, proof before the offer, CTA buried, oversized hero, decorative blocks, repeated CTAs or banners, dead scroll (tall blocks that add no new job).
+Look for: same job twice, proof before the offer, CTA buried, oversized hero, decorative blocks, repeated CTAs or banners, dead scroll (tall blocks that add no new job), and orphan widgets (a timer, badge or trust line holding its own row).
 
 Target outline: fewer sections, order hook → outcome → proof → action. Extra detail can collapse into tabs or accordions, or move to a subpage.
 
