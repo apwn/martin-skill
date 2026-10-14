@@ -5,6 +5,8 @@ The hierarchy is **customer outcome → why it matters → credible proof or dem
 
 A feature is what the product has. A benefit is what that feature enables. An outcome is the change the customer actually wants. Never invent results or imply guaranteed savings.
 
+If a stranger reads only the headline, they should know what you sell (Shapiro). Name the alternative they would use without this product, and the value only this product can claim, using facts already in the project (Dunford). Do not invent an alternative, a category or a saving to make the line punchier.
+
 ## Editing process
 1. Identify the audience, job-to-be-done and primary action.
 2. Inventory features internally. Do not automatically show each as a card.
